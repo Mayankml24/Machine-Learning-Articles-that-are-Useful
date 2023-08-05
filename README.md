@@ -8,3 +8,4 @@
 7. [Why are deep neural networks hard to train?](http://neuralnetworksanddeeplearning.com/chap5.html)
 8. [Deep learning](http://neuralnetworksanddeeplearning.com/chap6.html)
 9. [Is there a simple algorithm for intelligence?](http://neuralnetworksanddeeplearning.com/sai.html)
+10. [What is Deep Learning?](https://www.ibm.com/topics/deep-learning#:~:text=Deep%20learning%20is%20a%20subset,from%20large%20amounts%20of%20data.)
